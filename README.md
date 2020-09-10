@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ 8 Years of Experience in Software Testing & Test Automation. 
+
+✨ Quality Assurance professional skilled in Test Planning, Test Automation, Exploratory Testing, Server - Side Testing and DevOps.
+
+
+Below is the skill-set which I have been work up or experimenting: 
+
+- Test Management Tools: Quality Center, JIRA, APSS, Polarion.
+- Test Automation Tools: Selenium Web driver, Appium and TestNG [Framework].
+- DevOps Tools: Maven, GIT / SVN, Jenkins, Terraform, Docker, Ansible.
+- Domain Knowledge: Telecom, Banking, Industrial Automation.
+- Technical Competencies: Core Java, WebLogic, UNIX, SQL, PL/SQL basics.
+- Functional Competencies: White Box Testing, CRM Functional (Clarify), Exploratory Testing, Test Strategy.
