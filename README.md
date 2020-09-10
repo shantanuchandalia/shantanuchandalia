@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Professional Summary: 
+## Professional Summary: 
 
-✨ 8 Years of Experience in Software Testing & Test Automation. 
+# ✨ 8 Years of Experience in Software Testing & Test Automation. 
 
 ✨ Worked with Wipro Technologies, Amdocs and ifm. 
 
 ✨ Skilled in Test Planning, Test Automation, Exploratory Testing, Server - Side Testing and DevOps.
 
 
+## Skill-set 
 Below is the skill-set which I have been work up or experimenting: 
 
 - Test Management Tools: Quality Center, JIRA, APSS, Polarion.
