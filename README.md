@@ -31,3 +31,6 @@ Below is the skill-set which I have been work up or experimenting:
 - Domain Knowledge: Telecom, Banking, Industrial Automation.
 - Technical Competencies: Core Java, WebLogic, UNIX, SQL, PL/SQL basics.
 - Functional Competencies: White Box Testing, CRM Functional (Clarify), Exploratory Testing, Test Strategy.
+
+
+Please have a look at my small projects and feel free to provide feedback and collaborate! 
