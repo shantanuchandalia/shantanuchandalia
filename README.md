@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 Professional Summary: 
 
 ✨ 8 Years of Experience in Software Testing & Test Automation. 
+
 ✨ Worked with Wipro Technologies, Amdocs and ifm. 
-✨ Quality Assurance professional skilled in Test Planning, Test Automation, Exploratory Testing, Server - Side Testing and DevOps.
+
+✨ Skilled in Test Planning, Test Automation, Exploratory Testing, Server - Side Testing and DevOps.
 
 
 Below is the skill-set which I have been work up or experimenting: 
