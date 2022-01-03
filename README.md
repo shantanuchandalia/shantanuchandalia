@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # ✨ 10 Years of Experience in Software Testing & Test Automation. 
 
-✨ Worked with Wipro Technologies, Amdocs and ifm. 
+✨ Worked with Wipro Technologies, Amdocs and ifm. Working with ZS Associates currently.
 
 ✨ Skilled in Test Planning, Test Automation, Exploratory Testing, Server - Side Testing and DevOps.
 
